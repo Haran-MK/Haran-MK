@@ -7,8 +7,8 @@
 - 🤔 I’m looking for help with full-stack development and integrating frontend with backend services
 - 💬 Ask me about in Tech.
 - 📫 How to reach me:
-- 📧Email : harankumar2345@gmail.com
-- 🔗Linkedin : https://www.linkedin.com/in/haran-m-k-752023328
+- 📧 Email : harankumar2345@gmail.com
+- 🔗 Linkedin : https://www.linkedin.com/in/haran-m-k-752023328
 
 ## 💻 Projects
 #### Hybrid Bus and Taxi Booking
