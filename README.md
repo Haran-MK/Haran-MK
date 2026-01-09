@@ -1,6 +1,17 @@
 ## Hi there 👋 I'm Haran
+## 🌐 Welcome to Github Profile
+👨‍🎓 I'm a B.Tech enthusiastic Information Technology student passionate about learning new technologies and building practical software projects. I enjoy working on real-world problems and continuously improving my skills.
+- 🔭 I’m currently working on Frontend Development and academic projects.
+- 🌱 I’m currently learning application development, backend concepts, and database integration.
+- 👯 I’m looking to collaborate on web development projects, hackathons, and open-source contributions.
+- 🤔 I’m looking for help with full-stack development and integrating frontend with backend services
+- 💬 Ask me about in Tech.
+- 📫 How to reach me:
+- 📧Email : harankumar2345@gmail.com
+- 🔗Linkedin : https://www.linkedin.com/in/haran-m-k-752023328
 
-
+## Projects
+### Hybrid Bus and Taxi Booking
 ## 🧠 Skills
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 ## 📫 Contact me
