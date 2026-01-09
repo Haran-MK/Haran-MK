@@ -10,7 +10,7 @@
 - 📧Email : harankumar2345@gmail.com
 - 🔗Linkedin : https://www.linkedin.com/in/haran-m-k-752023328
 
-## 💻Projects
+## 💻 Projects
 #### Hybrid Bus and Taxi Booking
 Developed a web-based application that allows users to book both bus and
 taxi services through a single platform. The system provides features like
@@ -19,7 +19,7 @@ booking confirmation. It simplifies travel planning by combining two
 transport modes in one interface.
 Tools & Technologies: HTML, CSS, JavaScript, MySQL
 
-## 📌Certifications
+## 📌 Certifications
 - Oracle Certified Foundations Associate
 - Oracle Certified Professional
 - Fundamentals of Deep Learning
