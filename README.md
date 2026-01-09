@@ -10,8 +10,24 @@
 - 📧Email : harankumar2345@gmail.com
 - 🔗Linkedin : https://www.linkedin.com/in/haran-m-k-752023328
 
-## Projects
-### Hybrid Bus and Taxi Booking
+## 💻Projects
+#### Hybrid Bus and Taxi Booking
+Developed a web-based application that allows users to book both bus and
+taxi services through a single platform. The system provides features like
+user registration, real-time availability checking, fare calculation, and
+booking confirmation. It simplifies travel planning by combining two
+transport modes in one interface.
+Tools & Technologies: HTML, CSS, JavaScript, MySQL
+
+## 📌Certifications
+- Oracle Certified Foundations Associate
+- Oracle Certified Professional
+- Fundamentals of Deep Learning
+- Infosys Springboard - Basic of C, HTML and Figma Training
+- SimpliLearn - Java Programming for Beginners
+
+## 🚀 Mission
+My mission is to grow as a full-stack developer through continuous learning and hands-on experience. I aim to build scalable, efficient, and real-world applications by strengthening both my frontend and backend skills while keeping user experience and performance in focus.
 ## 🧠 Skills
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 ## 📫 Contact me
